@@ -1,2 +1,2 @@
 # Fabry-Perot-interference
-Fabry-Perot resonances in perovskite crystals
+MATLAB codes to the interference function of a given perovskite micro-crystal
